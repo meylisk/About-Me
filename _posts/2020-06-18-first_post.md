@@ -1,9 +1,8 @@
 ---
-title: First Post!
+layout: post
+title: This is my first ever blog post!
 ---
 
-
-# This is my first ever blog post.
 
 Hi! My name is Meylis and welcome to my first ever blog post.
 
@@ -18,6 +17,3 @@ my_name = "Meylis"
 ```python
 print(f'Hi! I am {my_name}, glad to have you on my very fist blog post page!')
 ```
-
-    Hi! I am Meylis, glad to have you on my very fist blog post page!
-    

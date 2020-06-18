@@ -1,3 +1,9 @@
+---
+layout: post
+title: First Post!
+---
+
+
 # This is my first ever blog post.
 
 Hi! My name is Meylis and welcome to my first ever blog post.
